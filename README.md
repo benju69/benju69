@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Benjamin 👋
+
+👨‍💻 Android Developer @lalalab
+
+📢 Organizer @PAUG, @AndroidMakers
 
 <!--
 **benju69/benju69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
