@@ -1,8 +1,8 @@
 ### Hey there, I'm Benjamin 👋
 
-👨‍💻 Android Developer [@Lalalab](https://www.lalalab.com)
+👨‍💻  Android Developer [@Lalalab](https://www.lalalab.com)
 
-📢 Organizer @PAUG, [@AndroidMakers](https://androidmakers.fr/)
+📢  Organizer @PAUG, [@AndroidMakers](https://androidmakers.fr/)
 
 
 ![Benju's github stats](https://github-readme-stats.vercel.app/api?username=benju69&show_icons=true&hide_border=true&count_private=true)
