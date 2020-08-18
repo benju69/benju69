@@ -1,8 +1,11 @@
 ### Hey there, I'm Benjamin 👋
 
-👨‍💻 Android Developer @lalalab
+👨‍💻 Android Developer [@Lalalab](https://www.lalalab.com)
 
-📢 Organizer @PAUG, @AndroidMakers
+📢 Organizer @PAUG, [@AndroidMakers](https://androidmakers.fr/)
+
+
+![Benju's github stats](https://github-readme-stats.vercel.app/api?username=benju69&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **benju69/benju69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
