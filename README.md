@@ -1,6 +1,6 @@
 ### 🧑‍💻 Hey there, I'm Benjamin 👋
 
-![https://twitter.com/_benju_](https://user-images.githubusercontent.com/2486590/191477825-f1fa8c0a-7e71-4ef3-b9e2-bc627956da57.svg)
+![](https://user-images.githubusercontent.com/2486590/191477825-f1fa8c0a-7e71-4ef3-b9e2-bc627956da57.svg =100x100)(https://twitter.com/_benju_)
 
 
 - 🇫🇷 French Senior Android Developer, currently at [@Lalalab](https://www.lalalab.com), come print your photos 📸
