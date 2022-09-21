@@ -14,7 +14,6 @@
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white)
 
 ![Benju's github stats](https://github-readme-stats.vercel.app/api?username=benju69&show_icons=true&hide_border=true&count_private=true)
 
