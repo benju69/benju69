@@ -1,9 +1,5 @@
 ### 🧑‍💻 Hey there, I'm Benjamin 👋
 
-<a href="https://twitter.com/_benju_">
-<img src="[attachment:image.png](https://user-images.githubusercontent.com/2486590/191477825-f1fa8c0a-7e71-4ef3-b9e2-bc627956da57.svg)" width="50" height="50"/></a>
-
-
 - 🇫🇷 French Senior Android Developer, currently at [@Lalalab](https://www.lalalab.com), come print your photos 📸
 
 - 🗣 I'm an organizer at @PAUG, [@AndroidMakers](https://androidmakers.fr/), I love Android communnity
